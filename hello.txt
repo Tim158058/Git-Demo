@@ -5,3 +5,4 @@ HELLO GIT!	hot-fix Test
 Tim have traveled thus far
 clone
 clone2
+clone3
