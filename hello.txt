@@ -1,3 +1,4 @@
 Hello Git
 Hello Git!
 HELLO GIT!	Git Test!
+HELLO GIT!	hot-fix Test
