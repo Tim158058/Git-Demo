@@ -3,3 +3,4 @@ Hello Git!
 HELLO GIT!	Git Test!
 HELLO GIT!	hot-fix Test
 Tim have traveled thus far
+clone 
