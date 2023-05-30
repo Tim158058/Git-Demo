@@ -9,3 +9,4 @@ clone3
 VMware 
 just do it!
 远程库上更改了一下，再用ssh拉去一下试试
+我再push回去
